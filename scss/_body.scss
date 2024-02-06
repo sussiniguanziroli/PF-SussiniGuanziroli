@@ -1,0 +1,40 @@
+.profileDummy {
+    width: 50px;
+}
+
+body {
+    background-color: #fbfbfb;
+}
+
+
+.community {
+    background-color: #fcfcfc;
+    text-align: center;
+    text-transform: none;
+    font-weight: bold;
+    padding: 16px;
+    color: #414141;
+
+}
+
+.loremComBody {
+    font-size: 1.3rem;
+}
+
+.profileDummyNext {
+    border: none;
+    width: 250px;
+
+}
+
+.ytEmbed{
+    display: flex;
+    flex-direction:row ;
+}
+.ytEmbed iframe{
+    justify-items: center;
+    margin: 6px;
+    width: 1000px;
+    height: 600px;
+
+}
